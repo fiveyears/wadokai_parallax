@@ -1,7 +1,7 @@
 {
-    "name": "ivo/wadokai_parallax",
-    "description": "my theme",
-    "type": "theme",
+    "name": "fiveyears/wadokai_parallax",
+    "description": "wadokai parallax theme",
+    "type": "drupal-theme",
     "authors": [
         {
             "name": "five years",
