@@ -1,3 +1,3 @@
-# wadokai_parallax
+# wadokai parallax
 Wadokai Parallax theme
-Drupal8_parallax-them for wadokai
+Drupal8_parallax-theme for wadokai
