@@ -1,0 +1,65 @@
+name: Wadokai Parallax Theme
+type: theme
+description: 'Designed & Developed by Ivo Döhler'
+package: core
+base theme: drupal8_parallax_theme
+core: 8.x
+core_version_requirement: ^8 || ^9 || ^10
+
+#Libraries
+libraries:
+  - drupal8_parallax_theme/bootstrap
+  - drupal8_parallax_theme/flexslider
+  - drupal8_parallax_theme/fontawesome
+  - drupal8_parallax_theme/smartmenus
+  - drupal8_parallax_theme/owl
+  - drupal8_parallax_theme/animate
+  - wadokai_parallax/global-components
+
+#Regions
+regions:
+
+  #Header
+  header: 'Header'
+  contact_email: 'Contact email'
+  top_menu: 'Top menu'
+  primary_menu: 'Primary menu'  
+
+  #Home Page
+  homepagemessage: 'Home page message'
+
+  topwidget_first: 'Top first widget'
+  topwidget_second: 'Top second widget'
+  topwidget_third: 'Top third widget' 
+
+  #Global Region
+  highlighted: 'Highlighted' 
+  page_title: 'Page title'
+  breadcrumb: 'Breadcrumb'
+  content: 'Content'
+  sidebar_first: 'Left sidebar'
+  sidebar_second: 'Right sidebar'
+
+  #Parallax Widgets
+  services: 'Services'
+  clients: 'Clients'
+
+  #Bottom Widgets
+  bottom_first: 'Bottom first widget'
+  bottom_second: 'Bottom second widget'
+  bottom_third: 'Bottom third widget'
+  bottom_forth: 'Bottom forth widget'
+
+  #Address
+  google_map: 'Google map'
+  address: 'Address'
+
+  #Footer widgets
+  footer_first: 'Footer first widget'
+  footer_second: 'Footer second widget'
+  footer_third: 'Footer third widget'
+
+  auto_hidden_block: 'Auto hidden blocks'
+version: '1.0'
+project: 'wadokai_parallax'
+datestamp: 1678954446

@@ -1,0 +1,66 @@
+<?php
+
+/**
+ * @file
+ * Contains theme override functions and preprocess functions
+ */
+
+use Drupal\Core\Template\RenderWrapper;
+use Drupal\Core\Template\Attribute;
+use Drupal\search\Form\SearchBlockForm;
+use Drupal\Component\Utility\SafeMarkup;
+use Drupal\Core\Form\FormStateInterface;
+use Drupal\system\Form\ThemeSettingsForm;
+use Drupal\file\Entity\File;
+use Drupal\Core\Url;
+use Drupal\file\Plugin\Core\Entity\FileInterface;
+
+/**
+ * Implements hook_preprocess_page() for block templates.
+ */
+
+function wadokai_parallax_preprocess_page(&$variables) {
+
+  // Slider
+  // Asign Variable for Slider
+  if ($variables['is_front']) {
+    if (theme_get_setting('show_slideshow','wadokai_parallax') == 1) {
+      $variables['show_slideshow'] = 1;
+      $variables['slider_content'] = wadokai_parallax_get_slider_content();
+    }
+  }
+
+}
+
+// Changed read me
+function wadokai_parallax_get_slider_content() {
+  $slider_content = array();
+  for ($i = 1; $i <= theme_get_setting('no_of_slides'); $i++) {
+    $fid = theme_get_setting('slide_image_path'.$i,'wadokai_parallax');
+    if (!empty($fid)) {
+      $file = File::load($fid[0]);
+      $uri = $file->getFileUri();
+      $path = file_create_url($uri);
+    }
+    else {
+      $path = base_path() . drupal_get_path('theme', 'wadokai_parallax') . theme_get_setting('slide_image_path_' . $i, 'wadokai_parallax');
+    }
+    if (in_array($i , array(1,4,7,10)) )  {
+      $text = "weiterlesen";
+    } elseif (in_array($i , array(2,5,8,11)) ) {
+      $text = 'Trainer';
+    } else {
+      $text = 'Trainingsorte';
+    }
+    $slider_content[$i] = '<li>
+      <img src="' . $path . '" alt="Slider Banner" />
+      <div class="slider-caption">
+        <h2 class="slider-title">' . theme_get_setting('slide_title_' . $i, 'wadokai_parallax').'</h2>
+        <div class="clearfix"><p class="slider-description">' . theme_get_setting('slide_description_' . $i, 'wadokai_parallax').'</p></div>
+        <a href=' . theme_get_setting('slide_url_' . $i, 'wadokai_parallax') . ' class="more-link">' . $text . '</a>
+      </div>
+    </li>';
+  }
+  return $slider_content;
+}
+

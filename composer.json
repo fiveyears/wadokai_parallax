@@ -1,0 +1,13 @@
+{
+    "name": "ivo/wadokai_parallax",
+    "description": "my theme",
+    "type": "theme",
+    "authors": [
+        {
+            "name": "five years",
+            "email": "fiveyears62@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}

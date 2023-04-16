@@ -1,0 +1,148 @@
+
+/*Variables*/
+
+/*
+the link of the slider is created in drupal8_parallax_theme.theme:131
+
+in custom.js:10 is the owl activated, the field name is important
+
+in page.html.twig:262 google maps changed, address removed
+*/
+// my:
+$myBackground: rgba(255, 255, 255, 0.40);
+
+$myAddressBg: transparent; //#dcdcdc; // here in _variables-and-mixins.scss
+$myBaseFontColor: #000; // here in _variables-and-mixins.scss
+$myBaseFontSize: 14px; //changed 12px; here in _variables-and-mixins.scss
+$myTableHoverBackground: transparent; // changed #f7fcff; in _base.scss:161
+$myHomeMaxWidth: 100%; // changed 750px; in _home.scss:58
+$myAddressBackground: transparent; // changed image-url("world-map.png") $addressBg center no-repeat; in _home.scss:70
+
+$mySliderBorder: 0px solid rgba(255, 255, 255, 0.6); // changed  1px solid rgba(255, 255, 255, 0.6); in _slider.scss:22
+$mySliderBackground: $myBackground; // changed rgba(0, 0, 0, 0.41); in _slider.scss:26
+$mySliderH2Color: #000; // changed #fff; in _slider.scss:37
+$mySliderDescriptionColor:#000; // changed #fff; in _slider.scss:48
+
+$myHomePageBG: $myBackground; // changed rgba(0, 0, 0, 0.93); in _pages.scss:11
+$myHomePageMessageColor: $myBaseFontColor; // changed #fff; in _pages.scss:12
+$myWidgetRegionBG: $myBackground; // // changed rgba(255,255,255, 0.9); in _pages.scss:48
+$myWidgetTwoRegionBG: $myBackground; // // changed rgba(255,255,255, 0.67); in _pages.scss:75
+
+// fixed navbar
+ // .topnav {
+ //   position: fixed !important; // relative
+ //   width: 100% !important; // relative
+ //   z-index: 1000 !important; // auto
+ //   background-color: #fff !important; // rgba(0,0,0,0)
+ //   top: 0px !important;
+ // 
+ // }
+ // body { padding-top: 50px !important; }
+// end fixed navbar
+
+.taeter {
+	font-size: 0.8em;
+	font-style: italic;
+}
+
+.Blogdatum {
+	::before { 
+		content: "Wann: ";
+	}
+	::after { 
+		content: " Uhr";
+	}
+	font-size: 1.2em;
+}
+
+.field--name-field-trainer .owl-item { // changed .field--name-field-service
+	// background: $servicesBg; // changed
+	padding: 5px 10px;
+
+	*{
+		color: black; // changed $servicesTextColor;		
+	}
+}
+
+.bilderreihe {
+	float:left; 
+	clear: left;
+}
+
+.region-homepagemessage{
+	margin-bottom: 0px !important;
+}
+
+.topwidget {
+	background: $myHomePageBG;
+	margin-left: 0px !important; 
+	margin-right: 0px !important; 
+}
+
+.topwidget > div { border-right: 0px !important; } // _media.scss:40
+
+#map_wrapper {
+    height: 400px;
+}
+
+#map_canvas {
+    width: 100%;
+    height: 100%;
+}
+
+.css-galerie  {
+	margin-top: -20px;
+	max-height: 600px; 
+	overflow-y: scroll;
+}
+
+.css-news {
+	margin-top: -20px;
+	max-height: 600px; 
+	overflow-y: scroll;
+}
+
+$fontFamily: 'Poppins', sans-serif;
+$baseFontSize: $myBaseFontSize; //changed 12px;
+$bodyBGColor: #fff;
+$baseFontColor: $myBaseFontColor;
+
+$linkColor: #ff6260;
+$linkColorHover: #ea504e;
+
+/*Header*/
+
+$headerBGColor: #000;
+$headerTextColor: #000;
+
+/*Menu Color*/
+
+$menuTextColor: #eee;
+$menuTextActiveColor: $linkColor;
+
+$mobileMenuBg: #e44627;
+
+$desktopMenuTextColor: #000;
+$desktopMenuDropDownBg: rgba(255, 255, 255, 0.74);
+
+$servicesBg: #333;
+$servicesTextColor: #e4e4e4;
+
+$addressBg: $myAddressBg;
+
+
+/*Mixins*/
+
+@mixin globalButton(){
+	background: $linkColor;
+	color: #fff;
+	border: 0;
+	padding: 10px 15px;
+	line-height: 100%;
+	border-radius: 0;
+}
+
+@mixin globalButtonHover(){
+	background: $linkColorHover;
+	color: #fff;
+}
