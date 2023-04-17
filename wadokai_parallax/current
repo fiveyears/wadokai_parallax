@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <project xmlns:dc="http://purl.org/dc/elements/1.1/">
 <title>Wadokai Parallax</title>
+<project_status>supported</project_status>
 <short_name>wadokai_parallax</short_name>
 <dc:creator>fiveyears</dc:creator>
 <type>theme</type>
