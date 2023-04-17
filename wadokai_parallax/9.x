@@ -5,7 +5,6 @@
 <dc:creator>fiveyears</dc:creator>
 <type>theme</type>
 <api_version>9.x</api_version>
-<project_status>unsupported</project_status>
 <link>https://github.com/fiveyears/wadokai_parallax</link>
 <terms><term><name>Projects</name><value>Themes</value></term><term><name>Maintenance status</name><value>Actively maintained</value></term>
 <term><name>Development status</name><value>Under active development</value></term></terms>
