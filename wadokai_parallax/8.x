@@ -13,7 +13,7 @@
     <release>
       <name>wadokai_parallax 8.x-1.0.0</name>
       <version>8.x-1.0.0</version>
-      <tag>8.x-1.0.0</tag>
+      <tag>v1.0.0</tag>
       <version_major>1</version_major>
       <version_patch>0</version_patch>
       <status>published</status>
