@@ -11,14 +11,14 @@
   <link>https://github.com/fiveyears/wadokai_parallax</link>
   <releases>
     <release>
-      <name>wadokai_parallax 1.0.0</name>
-      <version>1.0.0</version>
-      <tag>1.0.0</tag>
+      <name>wadokai_parallax 8.x-1.0.0</name>
+      <version>8.x-1.0.0</version>
+      <tag>8.x-1.0.0</tag>
       <version_major>1</version_major>
       <version_patch>0</version_patch>
       <status>published</status>
-      <release_link>https://github.com/aaronsaray/wadokai_parallax/releases/tag/1.0.0</release_link>
-      <download_link>https://github.com/aaronsaray/wadokai_parallax/archive/1.0.0.zip</download_link>
+      <release_link>https://github.com/fiveyears/wadokai_parallax/releases/tag/v1.0.0</release_link>
+      <download_link>https://github.com/fiveyears/wadokai_parallax/releases/download/v1.0.0/wadokai_parallax.zip</download_link>
       <date>1681709636</date>
       <terms>
         <term><name>Release type</name><value>New features</value></term>
