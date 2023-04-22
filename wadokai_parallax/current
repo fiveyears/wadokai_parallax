@@ -12,6 +12,17 @@
 <link>https://github.com/fiveyears/wadokai_parallax</link>
 <releases>
 <release>
+  <name>wadokai_parallax 1.1.2</name>
+  <version>1.1.2</version><tag>v1.1.2</tag>
+  <version_major>1</version_major>
+  <version_minor>1</version_minor>
+  <version_patch>2</version_patch>
+  <status>published</status>
+  <release_link>https://github.com/fiveyears/wadokai_parallax/releases/tag/v1.1.2</release_link>
+  <download_link>https://github.com/fiveyears/wadokai_parallax/releases/download/v1.1.2/wadokai_parallax.zip</download_link>
+  <date>1682179696</date>
+</release>
+<release>
   <name>wadokai_parallax 1.1.1</name>
   <version>1.1.1</version><tag>v1.1.1</tag>
   <version_major>1</version_major>
