@@ -5,7 +5,7 @@ package: core
 base theme: drupal8_parallax_theme
 core: 8.x
 core_version_requirement: ^8 || ^9 || ^10
-version: '1.1.2'
+version: '1.1.3'
 project: 'wadokai_parallax'
 project status url: 'https://raw.githubusercontent.com/fiveyears/wadokai_parallax/release-history'
 'interface translation project': wadokai_parallax

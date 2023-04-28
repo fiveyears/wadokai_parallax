@@ -5,4 +5,4 @@ Wadokai Parallax theme
 Drupal8_parallax-theme for wadokai
 
 
-With versioning-update informations
+New: With versioning-update informations
