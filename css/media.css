@@ -106,7 +106,10 @@ in page.html.twig:262 google maps changed, address removed
     .region-primary-menu ul {
       border: 0; }
       .region-primary-menu ul ul {
-        background: #fff;
+        -webkit-box-shadow: 2px 2px 10px rgba(0,0,0,0.5);
+        -moz-box-shadow: 2px 2px 10px rgba(0,0,0,0.5);
+        box-shadow: 2px 2px 10px rgba(0,0,0,0.5);
+        background: rgba(255, 255, 255, 0.74); }
         background: rgba(255, 255, 255, 0.74); }
         .region-primary-menu ul ul li a,
         .region-primary-menu ul ul li a:hover,
