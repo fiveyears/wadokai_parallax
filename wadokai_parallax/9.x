@@ -22,6 +22,37 @@
 </terms>
 <releases>
 <release>
+	<name>v1.1.4</name><version>1.1.4</version><tag>v1.1.4</tag>
+	<version_major>1</version_major>
+	<version_minor>1</version_minor>
+	<version_patch>4</version_patch>
+	<status>published</status>
+	<release_link>https://github.com/fiveyears/wadokai_parallax/releases/tag/v1.1.4</release_link>
+	<download_link>https://github.com/fiveyears/wadokai_parallax/releases/download/v1.1.4/wadokai_parallax.zip</download_link>
+	<date>1685181430</date>
+	<files>
+	<file>
+		<url>https://github.com/fiveyears/wadokai_parallax/releases/download/v1.1.4/wadokai_parallax.tar.gz</url>
+		<archive_type>tar.gz</archive_type>
+		<md5>2085e44431bd8321cf96e6bd627fc10a</md5>
+		<size>6173616</size>
+		<filedate>1685181435</filedate>
+	</file>
+	<file>
+		<url>https://github.com/fiveyears/wadokai_parallax/releases/download/v1.1.4/wadokai_parallax.zip</url>
+		<archive_type>zip</archive_type>
+		<md5>bf22db3c37e31443e4862fd6c9dc9343</md5>
+		<size>6184413</size>
+		<filedate>1685181433</filedate>
+	</file></files>
+	<terms><term><name>Release type</name>
+	<value>Bug fixes</value>
+	</term>
+	</terms>
+	<security covered="1">Covered by Drupal's security advisory policy</security>
+	<core_compatibility>^8 || ^9 || ^10</core_compatibility>
+</release>
+<release>
 	<name>v1.1.3</name><version>1.1.3</version><tag>v1.1.3</tag>
 	<version_major>1</version_major>
 	<version_minor>1</version_minor>
