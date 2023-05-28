@@ -16,6 +16,6 @@
         }
     ],
     "require": {
-        "fiveyears/drupal10_parallax_theme": "^1.0.0"
+        "fiveyears/drupal10_parallax_theme":"1.0.1"
     }
 }
