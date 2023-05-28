@@ -29,21 +29,21 @@
 	<status>published</status>
 	<release_link>https://github.com/fiveyears/wadokai_parallax/releases/tag/v1.1.7</release_link>
 	<download_link>https://github.com/fiveyears/wadokai_parallax/releases/download/v1.1.7/wadokai_parallax.zip</download_link>
-	<date>1685280078</date>
+	<date>1685281962</date>
 	<files>
 	<file>
 		<url>https://github.com/fiveyears/wadokai_parallax/releases/download/v1.1.7/wadokai_parallax.tar.gz</url>
 		<archive_type>tar.gz</archive_type>
-		<md5>24045487830164665406be1afa5acab6</md5>
-		<size>6174275</size>
-		<filedate>1685280085</filedate>
+		<md5>bb5935c3e0a8fe99ec1725cabea2c09f</md5>
+		<size>6174279</size>
+		<filedate>1685281968</filedate>
 	</file>
 	<file>
 		<url>https://github.com/fiveyears/wadokai_parallax/releases/download/v1.1.7/wadokai_parallax.zip</url>
 		<archive_type>zip</archive_type>
-		<md5>f7cf3d83a9175f9a99236e8d1f5ca128</md5>
-		<size>6185427</size>
-		<filedate>1685280082</filedate>
+		<md5>739fec75e07a477a9b432d096d2dbc6b</md5>
+		<size>6185426</size>
+		<filedate>1685281966</filedate>
 	</file></files>
 	<terms><term><name>Release type</name>
 	<value>Bug fixes</value>
