@@ -12,12 +12,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/fiveyears/drupal10_parallax_theme.git",
-                "reference": "6d775ef54a2c37dd5a7b75bbf1bb7ba8f5cc48e3"
+                "reference": "bda9506bdb20dea68132f7ca1ce9a7a7c5ace576"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/fiveyears/drupal10_parallax_theme/zipball/6d775ef54a2c37dd5a7b75bbf1bb7ba8f5cc48e3",
-                "reference": "6d775ef54a2c37dd5a7b75bbf1bb7ba8f5cc48e3",
+                "url": "https://api.github.com/repos/fiveyears/drupal10_parallax_theme/zipball/bda9506bdb20dea68132f7ca1ce9a7a7c5ace576",
+                "reference": "bda9506bdb20dea68132f7ca1ce9a7a7c5ace576",
                 "shasum": ""
             },
             "type": "drupal-theme",
@@ -32,7 +32,7 @@
                 "source": "https://github.com/fiveyears/drupal10_parallax_theme/tree/1.0.1",
                 "issues": "https://github.com/fiveyears/drupal10_parallax_theme/issues"
             },
-            "time": "2023-05-28T12:17:08+00:00"
+            "time": "2023-05-28T16:53:22+00:00"
         }
     ],
     "packages-dev": [],
