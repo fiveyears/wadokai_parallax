@@ -1,0 +1,13 @@
+{
+    "name": "fiveyears/drupal10_parallax_theme",
+    "description": "wadokai parallax 10 theme",
+    "type": "drupal-theme",
+    "authors": [
+        {
+            "name": "five years",
+            "email": "fiveyears62@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
