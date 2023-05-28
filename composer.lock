@@ -1,0 +1,47 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "4fae2f5a6fc5bb685671de129d99b6a4",
+    "packages": [
+        {
+            "name": "fiveyears/drupal10_parallax_theme",
+            "version": "1.0.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/fiveyears/drupal10_parallax_theme.git",
+                "reference": "6d775ef54a2c37dd5a7b75bbf1bb7ba8f5cc48e3"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/fiveyears/drupal10_parallax_theme/zipball/6d775ef54a2c37dd5a7b75bbf1bb7ba8f5cc48e3",
+                "reference": "6d775ef54a2c37dd5a7b75bbf1bb7ba8f5cc48e3",
+                "shasum": ""
+            },
+            "type": "drupal-theme",
+            "authors": [
+                {
+                    "name": "five years",
+                    "email": "fiveyears62@gmail.com"
+                }
+            ],
+            "description": "wadokai parallax 10 theme",
+            "support": {
+                "source": "https://github.com/fiveyears/drupal10_parallax_theme/tree/1.0.1",
+                "issues": "https://github.com/fiveyears/drupal10_parallax_theme/issues"
+            },
+            "time": "2023-05-28T12:17:08+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "2.3.0"
+}
