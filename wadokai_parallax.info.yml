@@ -7,7 +7,7 @@ core: 8.x
 core_version_requirement: ^8 || ^9 || ^10
 version: '1.1.8'
 project: 'wadokai_parallax'
-project status url: 'https://raw.githubusercontent.com/fiveyears/drupal10_parallax_theme/release-history'
+project status url: 'https://raw.githubusercontent.com/fiveyears/wadokai_parallax/release-history'
 'interface translation project': wadokai_parallax
 'interface translation server pattern': themes/contrib/wadokai_parallax/translations/wadokai_parallax-%language.po
 
