@@ -2,10 +2,10 @@ name: Wadokai Parallax Theme
 type: theme
 description: 'Designed & Developed by Ivo Döhler'
 package: core
-base theme: drupal8_parallax_theme
+base theme: drupal10_parallax_theme
 core: 8.x
 core_version_requirement: ^8 || ^9 || ^10
-version: '1.1.6'
+version: '1.1.7'
 project: 'wadokai_parallax'
 project status url: 'https://raw.githubusercontent.com/fiveyears/wadokai_parallax/release-history'
 'interface translation project': wadokai_parallax
@@ -13,12 +13,12 @@ project status url: 'https://raw.githubusercontent.com/fiveyears/wadokai_paralla
 
 #Libraries
 libraries:
-  - drupal8_parallax_theme/bootstrap
-  - drupal8_parallax_theme/flexslider
-  - drupal8_parallax_theme/fontawesome
-  - drupal8_parallax_theme/smartmenus
-  - drupal8_parallax_theme/owl
-  - drupal8_parallax_theme/animate
+  - drupal10_parallax_theme/bootstrap
+  - drupal10_parallax_theme/flexslider
+  - drupal10_parallax_theme/fontawesome
+  - drupal10_parallax_theme/smartmenus
+  - drupal10_parallax_theme/owl
+  - drupal10_parallax_theme/animate
   - wadokai_parallax/global-components
 
 #Regions
@@ -65,4 +65,4 @@ regions:
   footer_third: 'Footer third widget'
 
   auto_hidden_block: 'Auto hidden blocks'
-datestamp: 1681737685
+datestamp: 1685261971

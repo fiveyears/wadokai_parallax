@@ -9,5 +9,13 @@
         }
     ],
     "minimum-stability": "stable",
-    "require": {}
+    "repositories": [
+        {
+            "url" : "git@github.com:fiveyears/drupal10_parallax_theme.git",
+            "type" : "vcs"
+        }
+    ],
+    "require": {
+        "fiveyears/drupal10_parallax_theme": "^1"
+    }
 }
