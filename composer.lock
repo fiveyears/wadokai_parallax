@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "4fae2f5a6fc5bb685671de129d99b6a4",
+    "content-hash": "feccfcdeb2be2b08af44afb748fa8c7a",
     "packages": [
         {
             "name": "fiveyears/drupal10_parallax_theme",
