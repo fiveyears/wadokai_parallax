@@ -22,6 +22,37 @@
 </terms>
 <releases>
 <release>
+	<name>v1.1.14</name><version>1.1.14</version><tag>v1.1.14</tag>
+	<version_major>1</version_major>
+	<version_minor>1</version_minor>
+	<version_patch>14</version_patch>
+	<status>published</status>
+	<release_link>https://github.com/fiveyears/wadokai_parallax/releases/tag/v1.1.14</release_link>
+	<download_link>https://github.com/fiveyears/wadokai_parallax/releases/download/v1.1.14/wadokai_parallax.zip</download_link>
+	<date>1685383297</date>
+	<files>
+	<file>
+		<url>https://github.com/fiveyears/wadokai_parallax/releases/download/v1.1.14/wadokai_parallax.tar.gz</url>
+		<archive_type>tar.gz</archive_type>
+		<md5>801a82ac4af39c17b11944406d1615e4</md5>
+		<size>6224034</size>
+		<filedate>1685383301</filedate>
+	</file>
+	<file>
+		<url>https://github.com/fiveyears/wadokai_parallax/releases/download/v1.1.14/wadokai_parallax.zip</url>
+		<archive_type>zip</archive_type>
+		<md5>ef2b8e711e14d285e68ebec5f61e16d3</md5>
+		<size>6236077</size>
+		<filedate>1685383300</filedate>
+	</file></files>
+	<terms><term><name>Release type</name>
+	<value>Bug fixes</value>
+	</term>
+	</terms>
+	<security covered="1">Covered by Drupal's security advisory policy</security>
+	<core_compatibility>^8 || ^9 || ^10</core_compatibility>
+</release>
+<release>
 	<name>v1.1.13</name><version>1.1.13</version><tag>v1.1.13</tag>
 	<version_major>1</version_major>
 	<version_minor>1</version_minor>
@@ -404,42 +435,58 @@
 	<date>1681739530</date>
 	<files>
 	<file>
-		<url>https://github.com/fiveyears/wadokai_parallax/releases/download/v1.1.10/wadokai_parallax.tar.gz
+		<url>
+https://github.com/fiveyears/wadokai_parallax/releases/download/v1.1.10/wadokai_parallax.tar.gz
 https://github.com/fiveyears/wadokai_parallax/releases/download/v1.1.11/wadokai_parallax.tar.gz
 https://github.com/fiveyears/wadokai_parallax/releases/download/v1.1.12/wadokai_parallax.tar.gz
-https://github.com/fiveyears/wadokai_parallax/releases/download/v1.1.13/wadokai_parallax.tar.gz</url>
+https://github.com/fiveyears/wadokai_parallax/releases/download/v1.1.13/wadokai_parallax.tar.gz
+https://github.com/fiveyears/wadokai_parallax/releases/download/v1.1.14/wadokai_parallax.tar.gz</url>
 		<archive_type>tar.gz</archive_type>
-		<md5>1246e86f2105f046355ca5c52f3088b5
+		<md5>d201a5353915f0a26df6393e1e12ee50
+1246e86f2105f046355ca5c52f3088b5
 ab3c1eae2f5cc3570f5df668c76a4754
 a9953d140a822837358548ba6f77ab33
-d201a5353915f0a26df6393e1e12ee50</md5>
-		<size>6173322
+d201a5353915f0a26df6393e1e12ee50
+801a82ac4af39c17b11944406d1615e4</md5>
+		<size>6223662
+6173322
 6224003
 6223628
-6223662</size>
-		<filedate>1685312223
+6223662
+6224034</size>
+		<filedate>
+1685312223
 1685363637
 1685365810
-1685382757</filedate>
+1685382757
+1685383301</filedate>
 	</file>
 	<file>
-		<url>https://github.com/fiveyears/wadokai_parallax/releases/download/v1.1.10/wadokai_parallax.zip
+		<url>
+https://github.com/fiveyears/wadokai_parallax/releases/download/v1.1.10/wadokai_parallax.zip
 https://github.com/fiveyears/wadokai_parallax/releases/download/v1.1.11/wadokai_parallax.zip
 https://github.com/fiveyears/wadokai_parallax/releases/download/v1.1.12/wadokai_parallax.zip
-https://github.com/fiveyears/wadokai_parallax/releases/download/v1.1.13/wadokai_parallax.zip</url>
+https://github.com/fiveyears/wadokai_parallax/releases/download/v1.1.13/wadokai_parallax.zip
+https://github.com/fiveyears/wadokai_parallax/releases/download/v1.1.14/wadokai_parallax.zip</url>
 		<archive_type>zip</archive_type>
-		<md5>1dc98b4160a8e0ee38bea0fa11c20226
+		<md5>da3ca3778850e392403d8f2c1125163d
+1dc98b4160a8e0ee38bea0fa11c20226
 413e75b3909460b6a7e662fb6c3077d5
 08893e1007490b20a05d585857e400b5
-da3ca3778850e392403d8f2c1125163d</md5>
-		<size>6185222
+da3ca3778850e392403d8f2c1125163d
+ef2b8e711e14d285e68ebec5f61e16d3</md5>
+		<size>6235579
+6185222
 6236018
 6235529
-6235579</size>
-		<filedate>1685312221
+6235579
+6236077</size>
+		<filedate>
+1685312221
 1685363635
 1685365808
-1685382755</filedate>
+1685382755
+1685383300</filedate>
 	</file></files>
 	<terms><term><name>Release type</name>
 	<value>Bug fixes</value>
