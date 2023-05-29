@@ -1,5 +1,4 @@
 vendor/
-.gitignore
 .DS_Store
 composer.lock
 config.rb
