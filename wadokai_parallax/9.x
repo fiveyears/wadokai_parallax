@@ -22,6 +22,37 @@
 </terms>
 <releases>
 <release>
+	<name>v1.1.13</name><version>1.1.13</version><tag>v1.1.13</tag>
+	<version_major>1</version_major>
+	<version_minor>1</version_minor>
+	<version_patch>13</version_patch>
+	<status>published</status>
+	<release_link>https://github.com/fiveyears/wadokai_parallax/releases/tag/v1.1.13</release_link>
+	<download_link>https://github.com/fiveyears/wadokai_parallax/releases/download/v1.1.13/wadokai_parallax.zip</download_link>
+	<date>1685382751</date>
+	<files>
+	<file>
+		<url>https://github.com/fiveyears/wadokai_parallax/releases/download/v1.1.13/wadokai_parallax.tar.gz</url>
+		<archive_type>tar.gz</archive_type>
+		<md5>d201a5353915f0a26df6393e1e12ee50</md5>
+		<size>6223662</size>
+		<filedate>1685382757</filedate>
+	</file>
+	<file>
+		<url>https://github.com/fiveyears/wadokai_parallax/releases/download/v1.1.13/wadokai_parallax.zip</url>
+		<archive_type>zip</archive_type>
+		<md5>da3ca3778850e392403d8f2c1125163d</md5>
+		<size>6235579</size>
+		<filedate>1685382755</filedate>
+	</file></files>
+	<terms><term><name>Release type</name>
+	<value>Bug fixes</value>
+	</term>
+	</terms>
+	<security covered="1">Covered by Drupal's security advisory policy</security>
+	<core_compatibility>^8 || ^9 || ^10</core_compatibility>
+</release>
+<release>
 	<name>v1.1.12</name><version>1.1.12</version><tag>v1.1.12</tag>
 	<version_major>1</version_major>
 	<version_minor>1</version_minor>
@@ -373,42 +404,42 @@
 	<date>1681739530</date>
 	<files>
 	<file>
-		<url>
-https://github.com/fiveyears/wadokai_parallax/releases/download/v1.1.10/wadokai_parallax.tar.gz
+		<url>https://github.com/fiveyears/wadokai_parallax/releases/download/v1.1.10/wadokai_parallax.tar.gz
 https://github.com/fiveyears/wadokai_parallax/releases/download/v1.1.11/wadokai_parallax.tar.gz
-https://github.com/fiveyears/wadokai_parallax/releases/download/v1.1.12/wadokai_parallax.tar.gz</url>
+https://github.com/fiveyears/wadokai_parallax/releases/download/v1.1.12/wadokai_parallax.tar.gz
+https://github.com/fiveyears/wadokai_parallax/releases/download/v1.1.13/wadokai_parallax.tar.gz</url>
 		<archive_type>tar.gz</archive_type>
-		<md5>ab3c1eae2f5cc3570f5df668c76a4754
-1246e86f2105f046355ca5c52f3088b5
+		<md5>1246e86f2105f046355ca5c52f3088b5
 ab3c1eae2f5cc3570f5df668c76a4754
-a9953d140a822837358548ba6f77ab33</md5>
-		<size>6224003
-6173322
+a9953d140a822837358548ba6f77ab33
+d201a5353915f0a26df6393e1e12ee50</md5>
+		<size>6173322
 6224003
-6223628</size>
-		<filedate>
-1685312223
+6223628
+6223662</size>
+		<filedate>1685312223
 1685363637
-1685365810</filedate>
+1685365810
+1685382757</filedate>
 	</file>
 	<file>
-		<url>
-https://github.com/fiveyears/wadokai_parallax/releases/download/v1.1.10/wadokai_parallax.zip
+		<url>https://github.com/fiveyears/wadokai_parallax/releases/download/v1.1.10/wadokai_parallax.zip
 https://github.com/fiveyears/wadokai_parallax/releases/download/v1.1.11/wadokai_parallax.zip
-https://github.com/fiveyears/wadokai_parallax/releases/download/v1.1.12/wadokai_parallax.zip</url>
+https://github.com/fiveyears/wadokai_parallax/releases/download/v1.1.12/wadokai_parallax.zip
+https://github.com/fiveyears/wadokai_parallax/releases/download/v1.1.13/wadokai_parallax.zip</url>
 		<archive_type>zip</archive_type>
-		<md5>413e75b3909460b6a7e662fb6c3077d5
-1dc98b4160a8e0ee38bea0fa11c20226
+		<md5>1dc98b4160a8e0ee38bea0fa11c20226
 413e75b3909460b6a7e662fb6c3077d5
-08893e1007490b20a05d585857e400b5</md5>
-		<size>6236018
-6185222
+08893e1007490b20a05d585857e400b5
+da3ca3778850e392403d8f2c1125163d</md5>
+		<size>6185222
 6236018
-6235529</size>
-		<filedate>
-1685312221
+6235529
+6235579</size>
+		<filedate>1685312221
 1685363635
-1685365808</filedate>
+1685365808
+1685382755</filedate>
 	</file></files>
 	<terms><term><name>Release type</name>
 	<value>Bug fixes</value>
