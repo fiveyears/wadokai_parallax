@@ -40,7 +40,9 @@ function wadokai_parallax_get_slider_content() {
     if (!empty($fid)) {
       $file = File::load($fid[0]);
       $uri = $file->getFileUri();
-      $path = file_create_url($uri);
+      // $path = file_create_url($uri);
+      // \Drupal::service('file_url_generator')->generateAbsoluteString($uri);
+      \Drupal::service('file_url_generator')->generateAbsoluteString($uri);
     }
     else {
       $path = base_path() . drupal_get_path('theme', 'wadokai_parallax') . theme_get_setting('slide_image_path_' . $i, 'wadokai_parallax');
