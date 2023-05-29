@@ -6,54 +6,6 @@
 	* Author:		support Team
 					support@zymphonies.com
 **/
-@import url("https://fonts.googleapis.com/css?family=Poppins:400,300,600,700");
-html, body, div, span, applet, object, iframe,
-h1, h2, h3, h4, h5, h6, p, blockquote, pre,
-a, abbr, acronym, address, big, cite, code,
-del, dfn, em, img, ins, kbd, q, s, samp,
-small, strike, strong, sub, sup, tt, var,
-b, u, i, center,
-dl, dt, dd, ol, ul, li,
-fieldset, form, label, legend,
-table, caption, tbody, tfoot, thead, tr, th, td,
-article, aside, canvas, details, embed,
-figure, figcaption, footer, header, hgroup,
-menu, nav, output, ruby, section, summary,
-time, mark, audio, video {
-  margin: 0;
-  padding: 0;
-  border: 0;
-  font: inherit;
-  font-size: 100%;
-  vertical-align: baseline; }
-
-html {
-  line-height: 1; }
-
-ol, ul {
-  list-style: none; }
-
-table {
-  border-collapse: collapse;
-  border-spacing: 0; }
-
-caption, th, td {
-  text-align: left;
-  font-weight: normal;
-  vertical-align: middle; }
-
-q, blockquote {
-  quotes: none; }
-  q:before, q:after, blockquote:before, blockquote:after {
-    content: "";
-    content: none; }
-
-a img {
-  border: none; }
-
-article, aside, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section, summary {
-  display: block; }
-
 /*Variables*/
 /*
 the link of the slider is created in drupal8_parallax_theme.theme:131
@@ -359,11 +311,13 @@ th.select-all {
   th.priority-medium,
   td.priority-medium {
     display: none; } }
+
 @media screen and (max-width: 60em) {
   /* 920px */
   th.priority-low,
   td.priority-low {
     display: none; } }
+
 p {
   margin: 0 0 10px 0; }
 
@@ -421,7 +375,66 @@ ul.links.inline {
 .block {
   margin-bottom: 10px; }
 
-/*@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700);*/
+/* poppins-100 - latin */
+@font-face {
+  font-display: swap;
+  /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 100;
+  src: url("../fonts/poppins-v20-latin-100.woff2") format("woff2");
+  /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */ }
+
+/* poppins-200 - latin */
+@font-face {
+  font-display: swap;
+  /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 200;
+  src: url("../fonts/poppins-v20-latin-200.woff2") format("woff2");
+  /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */ }
+
+/* poppins-300 - latin */
+@font-face {
+  font-display: swap;
+  /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 300;
+  src: url("../fonts/poppins-v20-latin-300.woff2") format("woff2");
+  /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */ }
+
+/* poppins-regular - latin */
+@font-face {
+  font-display: swap;
+  /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts/poppins-v20-latin-regular.woff2") format("woff2");
+  /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */ }
+
+/* poppins-500 - latin */
+@font-face {
+  font-display: swap;
+  /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 500;
+  src: url("../fonts/poppins-v20-latin-500.woff2") format("woff2");
+  /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */ }
+
+/* poppins-600 - latin */
+@font-face {
+  font-display: swap;
+  /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 600;
+  src: url("../fonts/poppins-v20-latin-600.woff2") format("woff2");
+  /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */ }
+
 body {
   font-family: "Poppins", sans-serif;
   font-size: 14px;
@@ -464,6 +477,7 @@ body {
 
 .google_map p, .google_map .block {
   margin: 0; }
+
 .google_map iframe {
   display: block; }
 
@@ -542,6 +556,7 @@ ul.links.inline li {
 .sidebar .region h2.title {
   padding: 5px 0;
   margin: 0; }
+
 .sidebar .region .content {
   padding: 10px 0; }
 
@@ -623,8 +638,10 @@ abbr.ajax-changed {
   margin-right: 10px; }
 
 .testimonials-pic img {
-  -moz-border-radius: 50%;
   -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
   border-radius: 50%; }
 
 .testimonials-author {
@@ -717,6 +734,7 @@ abbr.ajax-changed {
 
 .region-contact-email .block {
   margin: 5px 0; }
+
 .region-contact-email p {
   margin: 0;
   line-height: 120%; }
@@ -737,7 +755,7 @@ abbr.ajax-changed {
     display: table-cell;
     vertical-align: top; }
   #search-block-form input.form-submit {
-    background: url('../images/search.png?1494331119') no-repeat center #ea504e;
+    background: image-url("search.png") no-repeat center #ea504e;
     font-size: 0;
     width: 100%;
     height: 30px;
@@ -765,11 +783,13 @@ abbr.ajax-changed {
 .flexslider {
   border: 0;
   margin: 0;
-  -moz-box-shadow: none;
   -webkit-box-shadow: none;
+  -moz-box-shadow: none;
   box-shadow: none;
-  -moz-border-radius: 0;
   -webkit-border-radius: 0;
+  -moz-border-radius: 0;
+  -ms-border-radius: 0;
+  -o-border-radius: 0;
   border-radius: 0; }
   .flexslider .slider-caption {
     display: none;
@@ -788,8 +808,10 @@ abbr.ajax-changed {
     margin-left: -25%;
     background: #000;
     background: rgba(255, 255, 255, 0.4);
-    -moz-border-radius: 5px;
     -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
     border-radius: 5px; }
   .flexslider h2 {
     font-size: 1.0em;
@@ -831,8 +853,10 @@ abbr.ajax-changed {
     background: #fff;
     cursor: pointer;
     text-indent: -9999px;
-    -moz-border-radius: 50%;
     -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
     border-radius: 50%; }
   .flexslider .flex-control-nav {
     bottom: 0; }
@@ -902,6 +926,7 @@ nav h2 {
 .region-footer-menu ul {
   margin: 10px 0;
   padding: 0; }
+
 .region-footer-menu nav li {
   display: inline-block; }
   .region-footer-menu nav li a {
@@ -919,6 +944,7 @@ nav h2 {
   text-align: center;
   margin: 0;
   padding: 0; }
+
 .region-top-menu nav li {
   display: inline-block; }
   .region-top-menu nav li a {
@@ -928,8 +954,10 @@ nav h2 {
     color: #fff;
     text-transform: uppercase;
     font-weight: bold;
-    -moz-border-radius: 3px;
     -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    -ms-border-radius: 3px;
+    -o-border-radius: 3px;
     border-radius: 3px; }
     .region-top-menu nav li a:hover {
       background: #23b962; }
@@ -953,9 +981,11 @@ nav h2 {
 
 .bd-example-type h1, .bd-example-type h2, .bd-example-type h3, .bd-example-type h4, .bd-example-type h5, .bd-example-type h6 {
   margin: 0; }
+
 .bd-example-type .table td {
   padding: 15px 0;
   border-color: #eee; }
+
 .bd-example-type .table tr:first-child td {
   border-top: 0; }
 
@@ -1056,7 +1086,6 @@ nav h2 {
       background: url(../images/parallax/one_749.jpg);
       background-size: 100%;
       background-repeat: no-repeat; } }
-
 .not-front .parallax-region {
   max-width: 650px; }
 
@@ -1103,7 +1132,7 @@ nav h2 {
 	Maintainance
 -----------------------------*/
 .maintenance-page {
-  background: url('../images/maintenance-bg.png?1494331119') #66CBFF center no-repeat;
+  background: image-url("maintenance-bg.png") #66CBFF center no-repeat;
   color: #fff;
   text-align: center;
   padding-top: 220px;
@@ -1136,6 +1165,7 @@ nav h2 {
 -----------------------------*/
 .path-user .profile > div {
   display: inline-block; }
+
 .path-user .profile .label {
   display: block;
   color: #333; }
@@ -1207,11 +1237,13 @@ nav h2 {
     -webkit-transform: scale(0); }
   to {
     -webkit-transform: scale(1); } }
+
 @keyframes zoom {
   from {
     transform: scale(0); }
   to {
     transform: scale(1); } }
+
 /* The WankaClose Button */
 .wanka_close {
   position: absolute;

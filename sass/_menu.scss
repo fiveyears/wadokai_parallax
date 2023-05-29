@@ -134,7 +134,7 @@ nav h2{
 		    color: #fff;		    
 		    text-transform: uppercase;
 		    font-weight: bold;
-		    @include border-radius(3px);
+		    -webkit-border-radius: 3px; -moz-border-radius: 3px; -ms-border-radius: 3px; -o-border-radius: 3px; border-radius: 3px;
 
 			&:hover{
 				background: #23b962;

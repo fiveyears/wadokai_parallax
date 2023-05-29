@@ -81,6 +81,54 @@
       "oAP" : "\/favicon.ico",
       "oF" : 0
     },
+    "\/fonts\/poppins-v20-latin-100.woff2" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/fonts\/poppins-v20-latin-100.woff2",
+      "oF" : 0
+    },
+    "\/fonts\/poppins-v20-latin-200.woff2" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/fonts\/poppins-v20-latin-200.woff2",
+      "oF" : 0
+    },
+    "\/fonts\/poppins-v20-latin-300.woff2" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/fonts\/poppins-v20-latin-300.woff2",
+      "oF" : 0
+    },
+    "\/fonts\/poppins-v20-latin-500.woff2" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/fonts\/poppins-v20-latin-500.woff2",
+      "oF" : 0
+    },
+    "\/fonts\/poppins-v20-latin-600.woff2" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/fonts\/poppins-v20-latin-600.woff2",
+      "oF" : 0
+    },
+    "\/fonts\/poppins-v20-latin-regular.woff2" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/fonts\/poppins-v20-latin-regular.woff2",
+      "oF" : 0
+    },
     "\/js\/custom-min.js" : {
       "bF" : 0,
       "ft" : 64,
@@ -627,6 +675,1616 @@
       "hM" : 0,
       "oA" : 2,
       "oAP" : "\/translations\/wadokai_parallax-de.po",
+      "oF" : 0
+    },
+    "\/vendor\/autoload.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/vendor\/autoload.php",
+      "oF" : 0
+    },
+    "\/vendor\/composer\/autoload_classmap.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/vendor\/composer\/autoload_classmap.php",
+      "oF" : 0
+    },
+    "\/vendor\/composer\/autoload_namespaces.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/vendor\/composer\/autoload_namespaces.php",
+      "oF" : 0
+    },
+    "\/vendor\/composer\/autoload_psr4.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/vendor\/composer\/autoload_psr4.php",
+      "oF" : 0
+    },
+    "\/vendor\/composer\/autoload_real.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/vendor\/composer\/autoload_real.php",
+      "oF" : 0
+    },
+    "\/vendor\/composer\/autoload_static.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/vendor\/composer\/autoload_static.php",
+      "oF" : 0
+    },
+    "\/vendor\/composer\/ClassLoader.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/vendor\/composer\/ClassLoader.php",
+      "oF" : 0
+    },
+    "\/vendor\/composer\/installed.json" : {
+      "ft" : 524288,
+      "oA" : 1,
+      "oAP" : "\/vendor\/composer\/installed-min.json",
+      "oF" : 0,
+      "oO" : 0,
+      "oS" : 1
+    },
+    "\/vendor\/composer\/installed.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/vendor\/composer\/installed.php",
+      "oF" : 0
+    },
+    "\/vendor\/composer\/InstalledVersions.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/vendor\/composer\/InstalledVersions.php",
+      "oF" : 0
+    },
+    "\/vendor\/composer\/LICENSE" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/vendor\/composer\/LICENSE",
+      "oF" : 0
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/composer.json" : {
+      "ft" : 524288,
+      "oA" : 1,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/composer-min.json",
+      "oF" : 0,
+      "oO" : 0,
+      "oS" : 1
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/config.rb" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/config.rb",
+      "oF" : 0
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/config\/install\/drupal10_parallax_theme.settings.yml" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/config\/install\/drupal10_parallax_theme.settings.yml",
+      "oF" : 0
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/config\/optional\/block.block.drupal10_parallax_theme_account_menu.yml" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/config\/optional\/block.block.drupal10_parallax_theme_account_menu.yml",
+      "oF" : 0
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/config\/optional\/block.block.drupal10_parallax_theme_branding.yml" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/config\/optional\/block.block.drupal10_parallax_theme_branding.yml",
+      "oF" : 0
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/config\/optional\/block.block.drupal10_parallax_theme_breadcrumbs.yml" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/config\/optional\/block.block.drupal10_parallax_theme_breadcrumbs.yml",
+      "oF" : 0
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/config\/optional\/block.block.drupal10_parallax_theme_content.yml" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/config\/optional\/block.block.drupal10_parallax_theme_content.yml",
+      "oF" : 0
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/config\/optional\/block.block.drupal10_parallax_theme_footer.yml" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/config\/optional\/block.block.drupal10_parallax_theme_footer.yml",
+      "oF" : 0
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/config\/optional\/block.block.drupal10_parallax_theme_help.yml" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/config\/optional\/block.block.drupal10_parallax_theme_help.yml",
+      "oF" : 0
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/config\/optional\/block.block.drupal10_parallax_theme_local_actions.yml" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/config\/optional\/block.block.drupal10_parallax_theme_local_actions.yml",
+      "oF" : 0
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/config\/optional\/block.block.drupal10_parallax_theme_local_tasks.yml" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/config\/optional\/block.block.drupal10_parallax_theme_local_tasks.yml",
+      "oF" : 0
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/config\/optional\/block.block.drupal10_parallax_theme_main_menu.yml" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/config\/optional\/block.block.drupal10_parallax_theme_main_menu.yml",
+      "oF" : 0
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/config\/optional\/block.block.drupal10_parallax_theme_messages.yml" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/config\/optional\/block.block.drupal10_parallax_theme_messages.yml",
+      "oF" : 0
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/config\/optional\/block.block.drupal10_parallax_theme_page_title.yml" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/config\/optional\/block.block.drupal10_parallax_theme_page_title.yml",
+      "oF" : 0
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/config\/optional\/block.block.drupal10_parallax_theme_powered.yml" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/config\/optional\/block.block.drupal10_parallax_theme_powered.yml",
+      "oF" : 0
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/config\/optional\/block.block.drupal10_parallax_theme_search.yml" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/config\/optional\/block.block.drupal10_parallax_theme_search.yml",
+      "oF" : 0
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/css\/global.css" : {
+      "aP" : 1,
+      "bl" : 0,
+      "ci" : 0,
+      "co" : 0,
+      "ft" : 16,
+      "ma" : 0,
+      "oA" : 0,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/css\/global-min.css",
+      "oF" : 0,
+      "pg" : 0
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/css\/media.css" : {
+      "aP" : 1,
+      "bl" : 0,
+      "ci" : 0,
+      "co" : 0,
+      "ft" : 16,
+      "ma" : 0,
+      "oA" : 0,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/css\/media-min.css",
+      "oF" : 0,
+      "pg" : 0
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/drupal10_parallax_theme.breakpoints.yml" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/drupal10_parallax_theme.breakpoints.yml",
+      "oF" : 0
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/drupal10_parallax_theme.info.yml" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/drupal10_parallax_theme.info.yml",
+      "oF" : 0
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/drupal10_parallax_theme.libraries.yml" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/drupal10_parallax_theme.libraries.yml",
+      "oF" : 0
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/drupal10_parallax_theme.theme" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/drupal10_parallax_theme.theme",
+      "oF" : 0
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/favicon.ico" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/favicon.ico",
+      "oF" : 0
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/images\/maintenance-bg.png" : {
+      "ft" : 32768,
+      "iS" : 11132,
+      "oA" : 0,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/images\/maintenance-bg.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/images\/parallax\/five.jpg" : {
+      "ft" : 16384,
+      "iS" : 354440,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/images\/parallax\/five.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/images\/parallax\/four.jpg" : {
+      "ft" : 16384,
+      "iS" : 221042,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/images\/parallax\/four.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/images\/parallax\/one.jpg" : {
+      "ft" : 16384,
+      "iS" : 186178,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/images\/parallax\/one.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/images\/parallax\/three.jpg" : {
+      "ft" : 16384,
+      "iS" : 203070,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/images\/parallax\/three.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/images\/parallax\/two.jpg" : {
+      "ft" : 16384,
+      "iS" : 91654,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/images\/parallax\/two.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/images\/parallax\/zero.jpg" : {
+      "ft" : 16384,
+      "iS" : 133411,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/images\/parallax\/zero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/images\/search.png" : {
+      "ft" : 32768,
+      "iS" : 1283,
+      "oA" : 0,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/images\/search.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/images\/slider\/slide_01.jpg" : {
+      "ft" : 16384,
+      "iS" : 217470,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/images\/slider\/slide_01.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/images\/slider\/slide_02.jpg" : {
+      "ft" : 16384,
+      "iS" : 107471,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/images\/slider\/slide_02.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/images\/slider\/slide_03.jpg" : {
+      "ft" : 16384,
+      "iS" : 99007,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/images\/slider\/slide_03.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/images\/world-map.png" : {
+      "ft" : 32768,
+      "iS" : 73014,
+      "oA" : 0,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/images\/world-map.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/includes\/animate\/animate.css" : {
+      "aP" : 1,
+      "bl" : 0,
+      "ci" : 0,
+      "co" : 0,
+      "ft" : 16,
+      "ma" : 0,
+      "oA" : 0,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/includes\/animate\/animate-min.css",
+      "oF" : 0,
+      "pg" : 0
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/includes\/animate\/wow.min.js" : {
+      "bF" : 0,
+      "ft" : 64,
+      "ma" : 0,
+      "mi" : 0,
+      "oA" : 0,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/includes\/animate\/wow.min-min.js",
+      "oF" : 0,
+      "sC" : 0,
+      "tS" : 0
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/includes\/bootstrap\/css\/bootstrap-theme.min.css" : {
+      "aP" : 1,
+      "bl" : 0,
+      "ci" : 0,
+      "co" : 0,
+      "ft" : 16,
+      "ma" : 0,
+      "oA" : 0,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/includes\/bootstrap\/css\/bootstrap-theme.min-min.css",
+      "oF" : 0,
+      "pg" : 0
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/includes\/bootstrap\/css\/bootstrap.min.css" : {
+      "aP" : 1,
+      "bl" : 0,
+      "ci" : 0,
+      "co" : 0,
+      "ft" : 16,
+      "ma" : 0,
+      "oA" : 0,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/includes\/bootstrap\/css\/bootstrap.min-min.css",
+      "oF" : 0,
+      "pg" : 0
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/includes\/bootstrap\/js\/bootstrap.js" : {
+      "bF" : 0,
+      "ft" : 64,
+      "ma" : 0,
+      "mi" : 0,
+      "oA" : 0,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/includes\/bootstrap\/js\/bootstrap-min.js",
+      "oF" : 0,
+      "sC" : 0,
+      "tS" : 0
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/includes\/bootstrap\/js\/bootstrap.min.js" : {
+      "bF" : 0,
+      "ft" : 64,
+      "ma" : 0,
+      "mi" : 0,
+      "oA" : 0,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/includes\/bootstrap\/js\/bootstrap.min-min.js",
+      "oF" : 0,
+      "sC" : 0,
+      "tS" : 0
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/includes\/flexslider\/css\/flexslider.css" : {
+      "aP" : 1,
+      "bl" : 0,
+      "ci" : 0,
+      "co" : 0,
+      "ft" : 16,
+      "ma" : 0,
+      "oA" : 0,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/includes\/flexslider\/css\/flexslider-min.css",
+      "oF" : 0,
+      "pg" : 0
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/includes\/flexslider\/css\/fonts\/flexslider-icon.eot" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/includes\/flexslider\/css\/fonts\/flexslider-icon.eot",
+      "oF" : 0
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/includes\/flexslider\/css\/fonts\/flexslider-icon.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/includes\/flexslider\/css\/fonts\/flexslider-icon.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 3758088159,
+      "prP" : 0
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/includes\/flexslider\/css\/fonts\/flexslider-icon.ttf" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/includes\/flexslider\/css\/fonts\/flexslider-icon.ttf",
+      "oF" : 0
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/includes\/flexslider\/css\/fonts\/flexslider-icon.woff" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/includes\/flexslider\/css\/fonts\/flexslider-icon.woff",
+      "oF" : 0
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/includes\/flexslider\/js\/jquery.flexslider-min.js" : {
+      "bF" : 0,
+      "ft" : 64,
+      "ma" : 0,
+      "mi" : 0,
+      "oA" : 0,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/includes\/flexslider\/js\/jquery.flexslider-min-min.js",
+      "oF" : 0,
+      "sC" : 0,
+      "tS" : 0
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/includes\/fontawesome\/css\/font-awesome.css" : {
+      "aP" : 1,
+      "bl" : 0,
+      "ci" : 0,
+      "co" : 0,
+      "ft" : 16,
+      "ma" : 0,
+      "oA" : 0,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/includes\/fontawesome\/css\/font-awesome-min.css",
+      "oF" : 0,
+      "pg" : 0
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/includes\/fontawesome\/fonts\/fontawesome-webfont.eot" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/includes\/fontawesome\/fonts\/fontawesome-webfont.eot",
+      "oF" : 0
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/includes\/fontawesome\/fonts\/fontawesome-webfont.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/includes\/fontawesome\/fonts\/fontawesome-webfont.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 3758088159,
+      "prP" : 0
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/includes\/fontawesome\/fonts\/fontawesome-webfont.ttf" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/includes\/fontawesome\/fonts\/fontawesome-webfont.ttf",
+      "oF" : 0
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/includes\/fontawesome\/fonts\/fontawesome-webfont.woff" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/includes\/fontawesome\/fonts\/fontawesome-webfont.woff",
+      "oF" : 0
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/includes\/fontawesome\/fonts\/fontawesome-webfont.woff2" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/includes\/fontawesome\/fonts\/fontawesome-webfont.woff2",
+      "oF" : 0
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/includes\/fontawesome\/fonts\/FontAwesome.otf" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/includes\/fontawesome\/fonts\/FontAwesome.otf",
+      "oF" : 0
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/includes\/owl\/assets\/owl.carousel.min.css" : {
+      "aP" : 1,
+      "bl" : 0,
+      "ci" : 0,
+      "co" : 0,
+      "ft" : 16,
+      "ma" : 0,
+      "oA" : 0,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/includes\/owl\/assets\/owl.carousel.min-min.css",
+      "oF" : 0,
+      "pg" : 0
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/includes\/owl\/assets\/owl.theme.default.min.css" : {
+      "aP" : 1,
+      "bl" : 0,
+      "ci" : 0,
+      "co" : 0,
+      "ft" : 16,
+      "ma" : 0,
+      "oA" : 0,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/includes\/owl\/assets\/owl.theme.default.min-min.css",
+      "oF" : 0,
+      "pg" : 0
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/includes\/owl\/owl.carousel.min.js" : {
+      "bF" : 0,
+      "ft" : 64,
+      "ma" : 0,
+      "mi" : 0,
+      "oA" : 0,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/includes\/owl\/owl.carousel.min-min.js",
+      "oF" : 0,
+      "sC" : 0,
+      "tS" : 0
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/includes\/smartmenus\/jquery.smartmenus.min.js" : {
+      "bF" : 0,
+      "ft" : 64,
+      "ma" : 0,
+      "mi" : 0,
+      "oA" : 0,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/includes\/smartmenus\/jquery.smartmenus.min-min.js",
+      "oF" : 0,
+      "sC" : 0,
+      "tS" : 0
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/includes\/smartmenus\/sm-core-css.css" : {
+      "aP" : 1,
+      "bl" : 0,
+      "ci" : 0,
+      "co" : 0,
+      "ft" : 16,
+      "ma" : 0,
+      "oA" : 0,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/includes\/smartmenus\/sm-core-css-min.css",
+      "oF" : 0,
+      "pg" : 0
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/js\/custom.js" : {
+      "bF" : 0,
+      "ft" : 64,
+      "ma" : 0,
+      "mi" : 0,
+      "oA" : 0,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/js\/custom-min.js",
+      "oF" : 0,
+      "sC" : 0,
+      "tS" : 0
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/LICENSE.txt" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/LICENSE.txt",
+      "oF" : 0
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/logo.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/logo.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 3758088159,
+      "prP" : 0
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/README.md" : {
+      "cB" : 0,
+      "cS" : 0,
+      "eF" : 1,
+      "eL" : 1,
+      "ema" : 1,
+      "eSQ" : 1,
+      "ft" : 4096,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/README.html",
+      "oF" : 0,
+      "oFM" : 0,
+      "oS" : 0,
+      "pHT" : 0,
+      "pME" : 1,
+      "rFN" : 0,
+      "uCM" : 0
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/sass\/_base.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/sass\/_base.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 1
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/sass\/_bootstrap.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/sass\/_bootstrap.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 1
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/sass\/_demo.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/sass\/_demo.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 1
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/sass\/_global-styles.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/sass\/_global-styles.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 1
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/sass\/_header.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/sass\/_header.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 1
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/sass\/_home.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/sass\/_home.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 1
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/sass\/_menu.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/sass\/_menu.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 1
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/sass\/_pages.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/sass\/_pages.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 1
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/sass\/_slider.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/sass\/_slider.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 1
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/sass\/_typhography.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/sass\/_typhography.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 1
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/sass\/_variables-and-mixins.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/sass\/_variables-and-mixins.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 1
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/sass\/global.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 0,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/sass\/global.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 1
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/sass\/media.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 0,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/sass\/media.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 1
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/screenshot.png" : {
+      "ft" : 32768,
+      "iS" : 439196,
+      "oA" : 0,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/screenshot.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/block\/block--search.html.twig" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/block\/block--search.html.twig",
+      "oF" : 0
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/block\/block--system-branding-block.html.twig" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/block\/block--system-branding-block.html.twig",
+      "oF" : 0
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/block\/block.html.twig" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/block\/block.html.twig",
+      "oF" : 0
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/block\/breadcrumb.html.twig" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/block\/breadcrumb.html.twig",
+      "oF" : 0
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/content-edit\/file-managed-file.html.twig" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/content-edit\/file-managed-file.html.twig",
+      "oF" : 0
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/content-edit\/file-upload-help.html.twig" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/content-edit\/file-upload-help.html.twig",
+      "oF" : 0
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/content-edit\/file-widget-multiple.html.twig" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/content-edit\/file-widget-multiple.html.twig",
+      "oF" : 0
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/content-edit\/filter-caption.html.twig" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/content-edit\/filter-caption.html.twig",
+      "oF" : 0
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/content-edit\/filter-guidelines.html.twig" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/content-edit\/filter-guidelines.html.twig",
+      "oF" : 0
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/content-edit\/filter-tips.html.twig" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/content-edit\/filter-tips.html.twig",
+      "oF" : 0
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/content-edit\/image-widget.html.twig" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/content-edit\/image-widget.html.twig",
+      "oF" : 0
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/content-edit\/node-add-list.html.twig" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/content-edit\/node-add-list.html.twig",
+      "oF" : 0
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/content-edit\/node-edit-form.html.twig" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/content-edit\/node-edit-form.html.twig",
+      "oF" : 0
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/content-edit\/text-format-wrapper.html.twig" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/content-edit\/text-format-wrapper.html.twig",
+      "oF" : 0
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/content\/aggregator-item.html.twig" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/content\/aggregator-item.html.twig",
+      "oF" : 0
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/content\/book-node-export-html.html.twig" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/content\/book-node-export-html.html.twig",
+      "oF" : 0
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/content\/comment.html.twig" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/content\/comment.html.twig",
+      "oF" : 0
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/content\/links--node.html.twig" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/content\/links--node.html.twig",
+      "oF" : 0
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/content\/mark.html.twig" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/content\/mark.html.twig",
+      "oF" : 0
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/content\/node.html.twig" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/content\/node.html.twig",
+      "oF" : 0
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/content\/page-title.html.twig" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/content\/page-title.html.twig",
+      "oF" : 0
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/content\/search-result.html.twig" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/content\/search-result.html.twig",
+      "oF" : 0
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/content\/taxonomy-term.html.twig" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/content\/taxonomy-term.html.twig",
+      "oF" : 0
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/dataset\/aggregator-feed.html.twig" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/dataset\/aggregator-feed.html.twig",
+      "oF" : 0
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/dataset\/forum-icon.html.twig" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/dataset\/forum-icon.html.twig",
+      "oF" : 0
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/dataset\/forum-list.html.twig" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/dataset\/forum-list.html.twig",
+      "oF" : 0
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/dataset\/forums.html.twig" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/dataset\/forums.html.twig",
+      "oF" : 0
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/dataset\/item-list--search-results.html.twig" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/dataset\/item-list--search-results.html.twig",
+      "oF" : 0
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/dataset\/item-list.html.twig" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/dataset\/item-list.html.twig",
+      "oF" : 0
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/dataset\/table.html.twig" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/dataset\/table.html.twig",
+      "oF" : 0
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/field\/field--comment.html.twig" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/field\/field--comment.html.twig",
+      "oF" : 0
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/field\/field--node--created.html.twig" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/field\/field--node--created.html.twig",
+      "oF" : 0
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/field\/field--node--title.html.twig" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/field\/field--node--title.html.twig",
+      "oF" : 0
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/field\/field--node--uid.html.twig" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/field\/field--node--uid.html.twig",
+      "oF" : 0
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/field\/field--text-long.html.twig" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/field\/field--text-long.html.twig",
+      "oF" : 0
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/field\/field--text-with-summary.html.twig" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/field\/field--text-with-summary.html.twig",
+      "oF" : 0
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/field\/field--text.html.twig" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/field\/field--text.html.twig",
+      "oF" : 0
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/field\/field.html.twig" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/field\/field.html.twig",
+      "oF" : 0
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/field\/file-link.html.twig" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/field\/file-link.html.twig",
+      "oF" : 0
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/field\/image-formatter.html.twig" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/field\/image-formatter.html.twig",
+      "oF" : 0
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/field\/image-style.html.twig" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/field\/image-style.html.twig",
+      "oF" : 0
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/field\/image.html.twig" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/field\/image.html.twig",
+      "oF" : 0
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/field\/link-formatter-link-separate.html.twig" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/field\/link-formatter-link-separate.html.twig",
+      "oF" : 0
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/field\/time.html.twig" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/field\/time.html.twig",
+      "oF" : 0
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/form\/checkboxes.html.twig" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/form\/checkboxes.html.twig",
+      "oF" : 0
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/form\/confirm-form.html.twig" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/form\/confirm-form.html.twig",
+      "oF" : 0
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/form\/container.html.twig" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/form\/container.html.twig",
+      "oF" : 0
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/form\/datetime-form.html.twig" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/form\/datetime-form.html.twig",
+      "oF" : 0
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/form\/datetime-wrapper.html.twig" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/form\/datetime-wrapper.html.twig",
+      "oF" : 0
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/form\/details.html.twig" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/form\/details.html.twig",
+      "oF" : 0
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/form\/dropbutton-wrapper.html.twig" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/form\/dropbutton-wrapper.html.twig",
+      "oF" : 0
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/form\/field-multiple-value-form.html.twig" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/form\/field-multiple-value-form.html.twig",
+      "oF" : 0
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/form\/fieldset.html.twig" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/form\/fieldset.html.twig",
+      "oF" : 0
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/form\/form-element-label.html.twig" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/form\/form-element-label.html.twig",
+      "oF" : 0
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/form\/form-element.html.twig" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/form\/form-element.html.twig",
+      "oF" : 0
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/form\/form.html.twig" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/form\/form.html.twig",
+      "oF" : 0
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/form\/input.html.twig" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/form\/input.html.twig",
+      "oF" : 0
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/form\/radios.html.twig" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/form\/radios.html.twig",
+      "oF" : 0
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/form\/select.html.twig" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/form\/select.html.twig",
+      "oF" : 0
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/form\/textarea.html.twig" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/form\/textarea.html.twig",
+      "oF" : 0
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/layout\/html.html.twig" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/layout\/html.html.twig",
+      "oF" : 0
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/layout\/maintenance-page.html.twig" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/layout\/maintenance-page.html.twig",
+      "oF" : 0
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/layout\/page.html.twig" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/layout\/page.html.twig",
+      "oF" : 0
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/layout\/region.html.twig" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/layout\/region.html.twig",
+      "oF" : 0
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/misc\/status-messages.html.twig" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/misc\/status-messages.html.twig",
+      "oF" : 0
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/navigation\/book-all-books-block.html.twig" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/navigation\/book-all-books-block.html.twig",
+      "oF" : 0
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/navigation\/book-navigation.html.twig" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/navigation\/book-navigation.html.twig",
+      "oF" : 0
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/navigation\/book-tree.html.twig" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/navigation\/book-tree.html.twig",
+      "oF" : 0
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/navigation\/breadcrumb.html.twig" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/navigation\/breadcrumb.html.twig",
+      "oF" : 0
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/navigation\/links.html.twig" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/navigation\/links.html.twig",
+      "oF" : 0
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/navigation\/menu--main.html.twig" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/navigation\/menu--main.html.twig",
+      "oF" : 0
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/navigation\/menu-local-action.html.twig" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/navigation\/menu-local-action.html.twig",
+      "oF" : 0
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/navigation\/menu-local-task.html.twig" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/navigation\/menu-local-task.html.twig",
+      "oF" : 0
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/navigation\/menu-local-tasks.html.twig" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/navigation\/menu-local-tasks.html.twig",
+      "oF" : 0
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/navigation\/menu.html.twig" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/navigation\/menu.html.twig",
+      "oF" : 0
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/navigation\/pager.html.twig" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/navigation\/pager.html.twig",
+      "oF" : 0
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/navigation\/toolbar.html.twig" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/navigation\/toolbar.html.twig",
+      "oF" : 0
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/navigation\/vertical-tabs.html.twig" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/navigation\/vertical-tabs.html.twig",
+      "oF" : 0
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/user\/forum-submitted.html.twig" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/user\/forum-submitted.html.twig",
+      "oF" : 0
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/user\/user.html.twig" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/user\/user.html.twig",
+      "oF" : 0
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/views\/views-view-grid.html.twig" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/views\/views-view-grid.html.twig",
+      "oF" : 0
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/views\/views-view-list.html.twig" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/views\/views-view-list.html.twig",
+      "oF" : 0
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/views\/views-view-table.html.twig" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/views\/views-view-table.html.twig",
+      "oF" : 0
+    },
+    "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/views\/views-view-unformatted.html.twig" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/vendor\/fiveyears\/drupal10_parallax_theme\/templates\/views\/views-view-unformatted.html.twig",
       "oF" : 0
     },
     "\/wadokai_parallax.info.yml" : {

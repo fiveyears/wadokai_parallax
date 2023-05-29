@@ -4,8 +4,7 @@
 .flexslider {
 	border: 0;
 	margin: 0;
-	@include box-shadow(none);
-	@include border-radius(0);
+	-webkit-box-shadow: none; -moz-box-shadow: none; box-shadow: none; -webkit-border-radius: 0; -moz-border-radius: 0; -ms-border-radius: 0; -o-border-radius: 0; border-radius: 0;
 
 	.slider-caption{
 		display: none;
@@ -24,7 +23,7 @@
 		margin-left: -25%;
 		background: #000;
 		background: $mySliderBackground; // changed rgba(0, 0, 0, 0.41);
-		@include border-radius(5px);
+		-webkit-border-radius: 5px; -moz-border-radius: 5px; -ms-border-radius: 5px; -o-border-radius: 5px; border-radius: 5px;
 	}
 
 	h2{
@@ -84,7 +83,7 @@
 	    background: #fff;
 	    cursor: pointer;
 	    text-indent: -9999px;
-	    @include border-radius(50%);
+	    -webkit-border-radius: 50%; -moz-border-radius: 50%; -ms-border-radius: 50%; -o-border-radius: 50%; border-radius: 50%;
 	}
 
 	.flex-control-nav{
