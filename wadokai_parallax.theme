@@ -45,7 +45,9 @@ function wadokai_parallax_get_slider_content() {
       \Drupal::service('file_url_generator')->generateAbsoluteString($uri);
     }
     else {
-      $path = base_path() . drupal_get_path('theme', 'wadokai_parallax') . theme_get_setting('slide_image_path_' . $i, 'wadokai_parallax');
+      // drupal_get_path('theme', 'wadokai_parallax')
+      // \Drupal::service('extension.path.resolver')->getPath('theme', 'wadokai_parallax')
+      $path = base_path() . \Drupal::service('extension.path.resolver')->getPath('theme', 'wadokai_parallax') . theme_get_setting('slide_image_path_' . $i, 'wadokai_parallax');
     }
     if (in_array($i , array(1,4,7,10)) )  {
       $text = "weiterlesen";

@@ -152,8 +152,8 @@ function initialize() {
                        
     // Multiple Markers
     var markers = [
-        ['63. Grundschule', 51.0489641,13.801869,'themes/drupal8_parallax_theme/images/marker63.png'],
-        ['32. Grundschule', 51.0424947,13.8102336,'themes/drupal8_parallax_theme/images/marker32.png']
+        ['63. Grundschule', 51.0489641,13.801869,'themes/drupal10_parallax_theme/images/marker63.png'],
+        ['32. Grundschule', 51.0424947,13.8102336,'themes/drupal10_parallax_theme/images/marker32.png']
     ];
     // Info Window Content
     var infoWindowContent = [
@@ -348,7 +348,7 @@ jQuery(document).ready(function($){
     // // Get the <span> element that wanka_closes the wanka
     // function showWanka() {
     //   wanka.style.display = "block";
-    //   modal_wankaImg.src = "themes/drupal8_parallax_theme/images/WankaText.jpg";
+    //   modal_wankaImg.src = "themes/drupal10_parallax_theme/images/WankaText.jpg";
     // }
     // if (getCookie("wanka") == "") {
     //     showWanka();
