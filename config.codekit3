@@ -65,6 +65,14 @@
       "oF" : 0,
       "pg" : 0
     },
+    "\/current" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/current",
+      "oF" : 0
+    },
     "\/favicon.ico" : {
       "cB" : 0,
       "ft" : 8192,
