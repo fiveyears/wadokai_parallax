@@ -152,8 +152,8 @@ function initialize() {
                        
     // Multiple Markers
     var markers = [
-        ['63. Grundschule', 51.0489641,13.801869,'../marker63.png'],
-        ['32. Grundschule', 51.0424947,13.8102336,'../marker32.png']
+        ['63. Grundschule', 51.0489641,13.801869,'./themes/contrib/wadokai_parallax/marker63.png'],
+        ['32. Grundschule', 51.0424947,13.8102336,'./themes/contrib/wadokai_parallax/marker32.png']
     ];
     // Info Window Content
     var infoWindowContent = [

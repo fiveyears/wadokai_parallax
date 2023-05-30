@@ -6,7 +6,7 @@ global-components:
       css/global.css: {}
       css/media.css: {}
   js:
-    js/custom.js: {}
+    js/custom-min.js: {}
   dependencies:
     - core/jquery
     - core/drupal.ajax
