@@ -5,7 +5,7 @@ package: core
 base theme: drupal10_parallax_theme
 core: 8.x
 core_version_requirement: ^8 || ^9 || ^10
-version: '1.1.19'
+version: '1.1.20'
 project: 'wadokai_parallax'
 project status url: 'https://raw.githubusercontent.com/fiveyears/wadokai_parallax/release-history'
 'interface translation project': wadokai_parallax
@@ -20,6 +20,11 @@ libraries:
   - drupal10_parallax_theme/owl
   - drupal10_parallax_theme/animate
   - wadokai_parallax/global-components
+
+libraries-override:
+  drupal10_parallax_theme/global-components:
+    js:
+      js/custom.js: false
 
 #Regions
 regions:
