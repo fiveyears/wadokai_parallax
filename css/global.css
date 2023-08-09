@@ -1015,10 +1015,6 @@ nav h2 {
   .topwidget .block {
     margin: 0; }
 
-.parallax-widget {
-  background: url("../images/parallax/one.jpg");
-  background-size: cover;
-  min-height: 500px; }
   .parallax-widget .parallax-region {
     background: rgba(255, 255, 255, 0.4);
     padding: 20px;
@@ -1026,38 +1022,47 @@ nav h2 {
     margin: 0 auto; }
   .parallax-widget.zero {
     background: url("../images/parallax/zero.jpg");
-    background-size: cover; }
-    .parallax-widget.zero .parallax-region {
-      padding: 0;
-      background: none; }
+    background-size: cover;
+    background-position: center center; }
+  .parallax-widget.zero .parallax-region {
+    padding: 0;
+    background: none; }
   .parallax-widget.one {
-    background: url("../images/parallax/one.jpg") fixed;
-    background-size: cover; }
+    background: url("../images/parallax/one.jpg");
+    background-size: cover;
+    background-position: center center; }
   .parallax-widget.two {
     background: url("../images/parallax/two.jpg");
-    background-size: cover; }
-    .parallax-widget.two .parallax-region {
-      background: black;
-      background: rgba(255, 255, 255, 0.4); }
+    background-size: cover;
+    background-position: center center; }
+  .parallax-widget.two .parallax-region {
+    background: black;
+    background: rgba(255, 255, 255, 0.4); }
   .parallax-widget.three {
     background: url("../images/parallax/three.jpg");
-    background-size: cover; }
+    background-size: cover;
+    background-position: center center; }
   .parallax-widget.four {
     background: url("../images/parallax/four.jpg");
-    background-size: cover; }
+    background-size: cover;
+    background-position: center center; }
   .parallax-widget.five {
     background: url("../images/parallax/five.jpg");
-    background-size: cover; }
+    background-size: cover;
+    background-position: center center; }
   .parallax-widget.six {
     background: url("../images/parallax/six.jpg");
-    background-size: cover; }
+    background-size: cover;
+    background-position: center center; }
   .parallax-widget.eight {
     background: url("../images/parallax/eight.jpg");
-    background-size: cover; }
+    background-size: cover;
+    background-position: center center; }
   .parallax-widget.seven {
     background: url("../images/parallax/seven.jpg");
-    background-size: cover; }
-
+    background-size: cover;
+    background-position: center center; }
+/*
 .path-frontpage .parallax-widget.one {
   background: url(../images/parallax/one.jpg);
   background-size: cover; }
@@ -1086,6 +1091,7 @@ nav h2 {
       background: url(../images/parallax/one_749.jpg);
       background-size: 100%;
       background-repeat: no-repeat; } }
+*/
 .not-front .parallax-region {
   max-width: 650px; }
 
