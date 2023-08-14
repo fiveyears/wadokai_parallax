@@ -58,27 +58,26 @@
  */
 #}
 
-
 {% if page.contact_email or page.top_menu %}
   <div class="top-menu">
     <div class="container">
       <div class="row">
 
-        <!-- Start: Contact Phone & Email -->
+        {#-- Start: Contact Phone & Email --#}
         <div class="col-sm-8">
           {% if page.contact_email %}
             {{ page.contact_email }}
           {% endif %}
         </div>
-        <!-- End: Contact Phone & Email -->
+        {#-- End: Contact Phone & Email --#}
 
-        <!-- Start: Top menu -->
+        {#-- Start: Top menu --#}
         <div class="col-sm-4">
           {% if page.top_menu %}
             {{ page.top_menu }}
           {% endif %}
         </div>
-        <!-- End: Top menu -->
+        {#-- End: Top menu --#}
 
       </div>
     </div>
@@ -92,7 +91,7 @@
     <div class="container">
       <div class="row">
 
-        <!-- Start: Header -->
+        {#-- Start: Header --#}
         <div class="navbar-header col-md-3">
           <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#main-navigation">
             <span class="sr-only">Toggle navigation</span>
@@ -104,14 +103,15 @@
             {{ page.header }}
           {% endif %}
         </div>
-        <!-- End: Header -->
+        {#-- End: Header --#}
 
-        <!-- Start: Main menu -->
+        {#-- Start: Main menu --#}
         <div class="col-md-9">
           {% if page.primary_menu %}
             {{ page.primary_menu }}
           {% endif %}
         </div>
+        {#-- End: Main menu --#}
 
         </div>
       </div>
@@ -119,8 +119,7 @@
 </header>
 {% endif %}
 
-
-<!-- Start: Slider -->
+{#-- Start: Slider --#}
   {% if is_front and show_slideshow%}
     <div class="flexslider wow bounceInUp">
       <ul class="slides">
@@ -130,50 +129,40 @@
       </ul>
     </div>
   {% endif %}
-<!-- End: Slider -->
+{#-- End: Slider --#}
 
-<!-- Start: Home page message -->
+{#-- Start: class: parallax-widget zero id: wadokai --#}
   {% if (is_front) and (page.topwidget_first or page.topwidget_second or page.topwidget_third or page.homepagemessage) %}
     <div class="parallax-widget zero" id="wadokai">
       <div class="container">
-
-{#
-<!-- The Wanka -->
-<div id="myWanka" class="wanka">
-  <span class="wanka_close">&times;</span>
-  <img class="wanka-content" id="wanka_img01">
-</div>
-<!-- The Wanka End -->
-#}
         <div class="parallax-region wow bounceInDown">
 
-          <!-- Start: Home page message -->
+          {#-- Start: Home page message --#}
           {% if is_front and page.homepagemessage %}
             {{ page.homepagemessage }}
           {% endif %}
-          <!--End: Home page message -->
+          {#-- End: Home page message --#}
 
           {% if (is_front) and (page.topwidget_first or page.topwidget_second or page.topwidget_third) %}
             <div class="row topwidget">
 
-              <!-- Start: Top wid
-              get first -->          
+              {#-- Start: Top widget first --#}          
               {% if page.topwidget_first %}
                 <div class = {{ topwidget_class }}>{{ page.topwidget_first }}</div>
               {% endif %}          
-              <!-- End: Top widget first --> 
+              {#-- End: Top widget first --#} 
 
-              <!-- Start: Top widget second -->          
+              {#-- Start: Top widget second --#}          
               {% if page.topwidget_second %}
                 <div class = {{ topwidget_class }}>{{ page.topwidget_second }}</div>
               {% endif %}          
-              <!-- End: Top widget second --> 
+              {#-- End: Top widget second --#} 
               
-              <!-- Start: Top widget third -->         
+              {#-- Start: Top widget third --#}         
               {% if page.topwidget_third %}
                 <div class = {{ topwidget_third_class }}>{{ page.topwidget_third }}</div>
               {% endif %}          
-              <!-- End: Top widget third -->
+              {#-- End: Top widget third --#}
 
             </div>
           {% endif %}
@@ -182,12 +171,12 @@
       </div>
     </div>
   {% endif %}
-<!--End: Home page message -->
+{#-- End: class: parallax-widget zero id: wadokai --#}
 
 {% if (not page.gallery) %}
-<!-- Start: xxx -->
+{#-- Start: class: parallax-widget one id: ziele --#}
 <div class="parallax-widget one"  {%  if is_front %}id="ziele"{% endif %}>
-  <div class="parallax-region- wow bounceInDown">
+  <div class="parallax-region wow bounceInDown">
     
     {% if page.highlighted %}
       <div class="container">
@@ -241,15 +230,15 @@
               <div class={{sidebarsecond}}> {{page.sidebar_second}} </div>
             </div>
           {% endif %}
-
         </div>
       </div>
     </div>
   </div>
 </div>
 {% endif %}
-<!-- End: xxx -->
-<!-- Start: Home page message -->
+{#-- End: class: parallax-widget one id: ziele --#}
+
+{#-- Start: class: parallax-widget three id: vorstand --#}
   {% if is_front and page.clients %}
     <div class="parallax-widget three" id="vorstand">
       <div class="container">
@@ -269,8 +258,9 @@
               {{ page.gallery }}
     </div>
   {% endif %}
-<!--End: Home page message -->
-<!-- Start: Home page message -->
+{#-- End: class: parallax-widget three id: vorstand --#}
+
+{#-- Start: class: parallax-widget eight id: history --#}
   {% if is_front and page.history %}
     <div class="parallax-widget eight" id="history">
       <div class="container">
@@ -284,11 +274,9 @@
       </div>
     </div>
   {% endif %}
-<!--End: Home page message -->
+{#-- End: class: parallax-widget eight id: history --#}
 
-
-
-<!-- Start: Home page message -->
+{#-- Start: class: parallax-widget two id: training --#}
   {% if is_front and page.services %}
     <div class="parallax-widget two" id="training">
       <div class="container">
@@ -302,181 +290,140 @@
       </div>
     </div>
   {% endif %}
-<!--End: Home page message -->
+{#-- End: class: parallax-widget two id: training --#}
 
-<!-- changed -->
-
-<!-- Start: Home page message -->
+{#-- Start: class: parallax-widget five id: maps --#}
 {% if is_front and page.google_map %}
   <div class="parallax-widget five map-and-address" id="maps">
     <div class="container">
       <div class="parallax-region wow bounceInUp">
         <div class="row">
           <div class="col-md-12">
-            <!-- Start: Google map -->
+            {#-- Start: Google map --#}
             {% if page.google_map %}
               <div class="google_map">{{ page.google_map }}</div>
             {% endif %}
-            <!-- End: Google map -->
+            {#-- End: Google map --#}
           </div>
         </div>
       </div>
     </div>
   </div>
   {% endif %}
-<!--End: Home page message -->
+{#-- End: class: parallax-widget five id: maps --#}
+
+{#-- Start: class: parallax-widget seven id: blog --#}
 {% if is_front and page.blog %}
   <div class="parallax-widget seven" id="blog">
     <div class="container">
       <div class="parallax-region wow bounceInUp">
         <div class="row">
           <div class="col-md-12">
-            <!-- Start: Google map -->
+            {#-- Start: blog --#}
             {% if page.blog %}
               <div class="blog">{{ page.blog }}</div>
             {% endif %}
-            <!-- End: Google map -->
+            {#-- End: blog --#}
           </div>
         </div>
       </div>
     </div>
   </div>
   {% endif %}
-<!--End: Home page message -->
+{#-- End: class: parallax-widget seven id: blog --#}
 
-<!-- Start: Home page message -->
+{#-- Start: class: parallax-widget four id: products --#}
 {% if is_front and (page.bottom_first or page.bottom_second or page.bottom_third or page.bottom_forth) %}
   <div class="parallax-widget four" id="products">    
     <div class="container">
       <div class="parallax-region wow bounceInDown">
         <div class="row">
 
-          <!-- Start: Bottom First -->          
+          {#-- Start: Bottom First --#}          
           {% if page.bottom_first %}
             <div class = {{ bottom_class }}>
               {{ page.bottom_first }}
             </div>
           {% endif %}          
-          <!-- End: Bottom First -->
+          {#-- End: Bottom First --#}
 
-          <!-- Start: Bottom Second -->
+          {#-- Start: Bottom Second --#}
           {% if page.bottom_second %}
             <div class = {{ bottom_class }}>
               {{ page.bottom_second }}
             </div>
           {% endif %}          
-          <!-- End: Bottom Second -->
+          {#-- End: Bottom Second --#}
 
-          <!-- Start: Bottom third -->          
+          {#-- Start: Bottom third --#}          
           {% if page.bottom_third %}
             <div class = {{ bottom_class }}>
               {{ page.bottom_third }}
             </div>
           {% endif %}          
-          <!-- End: Bottom Third -->
+          {#-- End: Bottom Third --#}
 
-          <!-- Start: Bottom Forth -->
+          {#-- Start: Bottom Forth --#}
           {% if page.bottom_forth %}
             <div class = {{ bottom_class }}>
               {{ page.bottom_forth }}
             </div>
           {% endif %}
-          <!-- End: Bottom Forth -->
-
+          {#-- End: Bottom Forth --#}
         </div>
       </div>
     </div>
   </div>
 {% endif %}
-<!--End: Home page message -->
+{#-- End: class: parallax-widget four id: products --#}
 
-
-<!-- Start: Home page message -->
+{#-- Start: class: parallax-widget six id: footer --#}
 {% if  is_front and (page.footer_first or page.footer_second or page.footer_third) %}
   <div class="parallax-widget six" id="footer">
     <div class="container">
       <div class="parallax-region wow bounceInUp">  
         <div class="row">
 
-          <!-- Start: Footer First -->
+          {#-- Start: Footer First --#}
           {% if page.footer_first %}
             <div class = {{ footer_first_class }}>
               {{ page.footer_first }}
             </div>
           {% endif %}
-          <!-- End: Footer First -->
+          {#-- End: Footer First --#}
 
-          <!-- Start :Footer Second -->
+          {#-- Start :Footer Second --#}
           {% if page.footer_second %}
             <div class = {{ footer_class }}>
               {{ page.footer_second }}
             </div>
           {% endif %}
-          <!-- End: Footer Second -->
+          {#-- End: Footer Second --#}
 
-          <!-- Start: Footer third -->
+          {#-- Start: Footer third --#}
           {% if page.footer_third %}
             <div class = {{ footer_class }}>
               {{ page.footer_third }}
             </div>
           {% endif %}
-          <!-- End: Footer Third -->
+          {#-- End: Footer Third --#}
 
         </div>
       </div>
     </div>
   </div>
 {% endif %}
-<!--End: Home page message -->
-
-{#
-<!-- Sportblog -->
-{% if  is_front %}
-<style type="text/css" media="screen"><!--
-#horizon        
-    {
-    color: white;
-    text-align: center;
-    position: fixed;
-    top: 10%;
-    left: 0px;
-    width: 100%;
-    /* line height */
-    height: 0px;
-    overflow: visible;
-    visibility: visible;
-    display: block
-    z-index: 100;
-    }
-
-#horizoncontent    
-    {
-    margin-left: -125px;
-    position: absolute;
-    top: -35px;
-    left: 10%;
-    width: 250px;
-    height: 70px;
-    visibility: visible
-    }
---></style>
-<div id="horizon"><div id="horizoncontent"><div><a href="#blog" onClick="this.parentNode.parentNode.removeChild(this.parentNode);">
-<img width="200px" alt="roder.com präsentiert - Sportblog des Jahres 2017" src="https://roder.com/fileadmin/_processed_/csm_badge_2017_d5268036f9.png" /></a>
-</div></div></div>
-{% endif %}
-<!-- Sportblog Ende -->
-#}
-
+{#-- End: class: parallax-widget six id: footer --#}
 
 {% if (not page.gallery) %}
 
-<!-- Start: Footer Menu -->
+{#-- Start: Footer Menu --#}
 {% if show_social_icon %}
   <div class="footer-menu">
     <div class="container">
       <div class="row">
 
-        <!-- Start: Social media links -->
+        {#-- Start: Social media links --#}
         <div class="col-sm-12">
           <div class="social-media">
             {% if facebook_url %}
@@ -499,36 +446,34 @@
             {% endif %}
           </div>
         </div>
-        <!-- End: Social media links -->
+        {#-- End: Social media links --#}
 
       </div>
     </div>
   </div>
 {% endif %}
-<!-- End: Footer Menu -->
+{#-- End: Footer Menu --#}
 
-
-<!-- Start: Copyright -->
+{#-- Start: Copyright --#}
 <div class="copyright">
   <div class="container">
     <div class="row">
 
-      <!-- Start: Copyright -->
+      {#-- Start: Copyright --#}
       <div class="col-sm-8">
         <p>Copyright © dr. ivo döhler {{ "now"|date("Y") }}. All rights reserved. <span class="pull-right" ><a href="/datenschutz">{{'data protection'|t}}</a> &nbsp; &nbsp;<a href="/impressum">impressum</a> &nbsp; &nbsp;<a href="/contact">kontakt</a></span></p>
       </div>
-      <!-- End: Copyright -->
+      {#-- End: Copyright --#}
 
-      <!-- Start: Credit link -->
+      {#-- Start: Credit link --#}
       {% if show_credit_link %}
         <div class="col-sm-6">
           <p class="credit-link">Designed By <a href="http://www.zymphonies.com" target="_blank">Zymphonies</a></p>
         </div>
       {% endif %}
-      <!-- End: Credit link -->
+      {#-- End: Credit link --#}
       
     </div>
   </div>
 </div>
 {% endif %}
-
