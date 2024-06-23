@@ -22,6 +22,37 @@
 </terms>
 <releases>
 <release>
+	<name>v1.1.24</name><version>1.1.24</version><tag>v1.1.24</tag>
+	<version_major>1</version_major>
+	<version_minor>1</version_minor>
+	<version_patch>24</version_patch>
+	<status>published</status>
+	<release_link>https://github.com/fiveyears/wadokai_parallax/releases/tag/v1.1.24</release_link>
+	<download_link>https://github.com/fiveyears/wadokai_parallax/releases/download/v1.1.24/wadokai_parallax.zip</download_link>
+	<date>1719150413</date>
+	<files>
+	<file>
+		<url>https://github.com/fiveyears/wadokai_parallax/releases/download/v1.1.24/wadokai_parallax.tar.gz</url>
+		<archive_type>tar.gz</archive_type>
+		<md5>b2ed43dce982aae3aa9a01f3d94e9ae0</md5>
+		<size>5406470</size>
+		<filedate>1719150417</filedate>
+	</file>
+	<file>
+		<url>https://github.com/fiveyears/wadokai_parallax/releases/download/v1.1.24/wadokai_parallax.zip</url>
+		<archive_type>zip</archive_type>
+		<md5>d0801ded357fefa4bb1829f7cda28d31</md5>
+		<size>5415570</size>
+		<filedate>1719150416</filedate>
+	</file></files>
+	<terms><term><name>Release type</name>
+	<value>Bug fixes</value>
+	</term>
+	</terms>
+	<security covered="1">Covered by Drupal's security advisory policy</security>
+	<core_compatibility>^8 || ^9 || ^10</core_compatibility>
+</release>
+<release>
 	<name>v1.1.23</name><version>1.1.23</version><tag>v1.1.23</tag>
 	<version_major>1</version_major>
 	<version_minor>1</version_minor>
@@ -686,39 +717,47 @@
 		<url>https://github.com/fiveyears/wadokai_parallax/releases/download/v1.1.20/wadokai_parallax.tar.gz
 https://github.com/fiveyears/wadokai_parallax/releases/download/v1.1.21/wadokai_parallax.tar.gz
 https://github.com/fiveyears/wadokai_parallax/releases/download/v1.1.22/wadokai_parallax.tar.gz
-https://github.com/fiveyears/wadokai_parallax/releases/download/v1.1.23/wadokai_parallax.tar.gz</url>
+https://github.com/fiveyears/wadokai_parallax/releases/download/v1.1.23/wadokai_parallax.tar.gz
+https://github.com/fiveyears/wadokai_parallax/releases/download/v1.1.24/wadokai_parallax.tar.gz</url>
 		<archive_type>tar.gz</archive_type>
 		<md5>0a6dc1ef87d6e04d13c486bb6ea06349
 4958fee472e489ac6a3809a71af18237
 dc7a1b42e2941fe69ce82c97ffef2d26
-26baa028937ece0771a3a9350182b5b3</md5>
+26baa028937ece0771a3a9350182b5b3
+b2ed43dce982aae3aa9a01f3d94e9ae0</md5>
 		<size>6208750
 5406888
 5406489
-5406479</size>
+5406479
+5406470</size>
 		<filedate>1691429368
 1691599028
 1691997433
-1706288541</filedate>
+1706288541
+1719150417</filedate>
 	</file>
 	<file>
 		<url>https://github.com/fiveyears/wadokai_parallax/releases/download/v1.1.20/wadokai_parallax.zip
 https://github.com/fiveyears/wadokai_parallax/releases/download/v1.1.21/wadokai_parallax.zip
 https://github.com/fiveyears/wadokai_parallax/releases/download/v1.1.22/wadokai_parallax.zip
-https://github.com/fiveyears/wadokai_parallax/releases/download/v1.1.23/wadokai_parallax.zip</url>
+https://github.com/fiveyears/wadokai_parallax/releases/download/v1.1.23/wadokai_parallax.zip
+https://github.com/fiveyears/wadokai_parallax/releases/download/v1.1.24/wadokai_parallax.zip</url>
 		<archive_type>zip</archive_type>
 		<md5>5932c5184cb65ab0c4603bbc87fbde94
 0f5e07282ce2388e894487da02710405
 d10299195c12538d06432fe486505c68
-00687ce6ceb415be98be6c92fd93125a</md5>
+00687ce6ceb415be98be6c92fd93125a
+d0801ded357fefa4bb1829f7cda28d31</md5>
 		<size>6222334
 5415998
 5415572
-5415576</size>
+5415576
+5415570</size>
 		<filedate>1691429366
 1691599016
 1691997432
-1706288539</filedate>
+1706288539
+1719150416</filedate>
 	</file></files>
 	<terms><term><name>Release type</name>
 	<value>Bug fixes</value>
